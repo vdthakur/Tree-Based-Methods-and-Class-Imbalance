@@ -1,4 +1,4 @@
-# Tree-Based Methods and Class Imbalance in Machine Learning
+# Tree-Based Methods and Class Imbalance
 
 This repository explores tree-based methods for classification, with a focus on handling missing values and addressing class imbalance using techniques like Random Forests, XGBoost, and SMOTE. The analysis is performed on the **APS Failure at Scania Trucks Dataset**.
 
